@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.ff0o0'
+group='com.github.ktlibrary'
 
 android {
     compileSdkVersion 27
